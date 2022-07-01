@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"TesseKetor",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"a4e38f34-b33c-4ca6-8b4e-71f391631e0d",
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"sourcewindows":	"ColladaWriter.vcxproj",
+	"sourcemac":	"ColladaWriter.xcodeproj"
+}

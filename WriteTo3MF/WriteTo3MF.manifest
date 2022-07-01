@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"",
+	"description":	{
+		"":	"Write 3MF file form fusion 3D solid model."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"f21bdbd1-b978-42e3-a58e-8604380167d7",
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"sourcewindows":	"WriteTo3MF.vcxproj",
+	"sourcemac":	"WriteTo3MF.xcodeproj"
+}
